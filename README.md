@@ -1,12 +1,12 @@
 # Array practice
 
-Complete the following exercises to improve your understanding of javascript functions!
+Complete the following exercises to improve your understanding of arrays in javascript!
 
 #### Instructions:
 * In `main.js`, define the functions listed below and test that it works by running it against `helper.test(yourFunction(), yourExpectedValue)`.
-* As opposed to manually checking the console with your eyes every time. We've written a helper method (`helper.test()`) to help you check your code. (But still feel free to do your own console.logs as you're building your function!)
-* For each function, add 1-3 test cases to confirm that your function really works.
-* Tests have been written for exercises 1-5. Write your own tests for the remaining exercises, like so: `helper.test(yourFunction(), yourExpectedValue)`. The first set of sample input and expected output are provided in the readme file below.
+* As opposed to manually checking the output every time you run the function, we've written a helper method (`helper.test()`) to help you check whether your code produces the expected output.
+* For each function, add 1-2 more test cases to confirm that your function really works.
+* Tests have been written for exercises 1-5. Write your own tests for the remaining exercises, like so: `helper.test(yourFunction(), yourExpectedValue)`. Sample inputs and expected outputs are provided in the readme file below.
 
 #### Exercises:
 
