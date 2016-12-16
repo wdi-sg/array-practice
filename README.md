@@ -4,9 +4,9 @@ Complete the following exercises to improve your understanding of javascript fun
 
 #### Instructions:
 * In `main.js`, define the functions listed below and test that it works by running it against `helper.test(yourFunction(), yourExpectedValue)`.
-* As opposed to manually checking the console with your eyes every time. We've written a helper method (`helper.test`) to help you check your code. (But still feel free to do your own console.logs as you're building your function!)
+* As opposed to manually checking the console with your eyes every time. We've written a helper method (`helper.test()`) to help you check your code. (But still feel free to do your own console.logs as you're building your function!)
 * For each function, add 1-3 test cases to confirm that your function really works.
-* Tests have been written for exercises 1-5. Write your own tests for the remaining exercises, like so: `helper.test(yourFunction(), yourExpectedValue)`
+* Tests have been written for exercises 1-5. Write your own tests for the remaining exercises, like so: `helper.test(yourFunction(), yourExpectedValue)`. The first set of sample input and expected output are provided in the readme file below.
 
 #### Exercises:
 
